@@ -1,0 +1,7 @@
+https://dev.to/msamgan/php-artisan-make-auth-in-laravel-6-0-hc
+
+new way
+type this in powershell
+
+1. composer require laravel/ui
+2. php artisan ui vue --auth

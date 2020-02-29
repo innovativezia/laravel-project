@@ -1,0 +1,7 @@
+1. https://getcomposer.org/doc/00-intro.md#globally     (installation of composer)
+2. https://nodejs.org/en/download/		(Install Node Js )
+3. https://laravel.com/docs/6.x  (Install Laravel) and install from C:\>composer global require laravel/installer
+4. https://www.youtube.com/coderstape   (laravel tutorial videos)
+5. https://github.com/coderstape/freeCodeGram    (Full coded course)
+6. https://laravel.com/docs/6.x#installation     (very important for reading)
+7. https://laravel-news.com/
